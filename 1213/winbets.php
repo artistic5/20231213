@@ -167,25 +167,24 @@ return [
 		/**
 		Race 8
 		*/
-		'favorite set'  =>  'Set 1',
 		'Set 1 Win Bets'  =>  [
-			'7' => '50 HKD',
-			'8' => '30 HKD',
-			'4' => '30 HKD',
-			'12' => '20 HKD',
-			'3' => '20 HKD',
-			'9' => '20 HKD',
+			'7' => '20 HKD',
+			'4' => '20 HKD',
+			'3' => '10 HKD',
+			'9' => '10 HKD',
+			'12' => '10 HKD',
 			'6' => '10 HKD',
 		],
-		'Total Bets set 1'  =>  '180 HKD',
+		'Total Bets set 1'  =>  '80 HKD',
 		'Set 2 Win Bets'  =>  [
-			'5' => '20 HKD',
+			'5' => '30 HKD',
+			'8' => '10 HKD',
+			'10' => '10 HKD',
 			'1' => '10 HKD',
 			'2' => '10 HKD',
-			'10' => '10 HKD',
 			'11' => '10 HKD',
 		],
-		'Total Bets set 2'  =>  '60 HKD'
+		'Total Bets set 2'  =>  '80 HKD'
 	],
 	'9' => [
 		/**
