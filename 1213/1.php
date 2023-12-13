@@ -87,7 +87,7 @@ return [
 		/**
 		Race 7
 		*/
-		'Win Odds'  =>  '8, 2, 9, 7, 3, 4, 11, 10, 6, 1, 12, 5',
+		'Win Odds'  =>  '8, 2, 9, 7, 4, 11, 3, 10, 6, 1, 12, 5',
 		'Pla Odds'  =>  '8, 2, 7, 9, 4, 11, 3, 10, 6, 1, 12, 5',
 		'Total Runners '  =>  12,
 		/** Based on win odds */
@@ -100,7 +100,7 @@ return [
 		Race 8
 		*/
 		'Win Odds'  =>  '7, 5, 8, 12, 4, 3, 9, 1, 2, 6, 10, 11',
-		'Pla Odds'  =>  '7, 8, 12, 5, 3, 4, 9, 1, 2, 11, 10, 6',
+		'Pla Odds'  =>  '7, 8, 12, 5, 4, 3, 9, 1, 2, 11, 10, 6',
 		'Total Runners '  =>  12,
 		/** Based on win odds */
 		/** Based on pla odds */
