@@ -7,15 +7,15 @@ return [
 		*/
 		'favorite set'  =>  'Set 2',
 		'Set 1 Win Bets'  =>  [
+			'6' => '10 HKD',
 			'1' => '10 HKD',
 			'9' => '10 HKD',
 			'4' => '10 HKD',
 		],
-		'Total Bets set 1'  =>  '30 HKD',
+		'Total Bets set 1'  =>  '40 HKD',
 		'Set 2 Win Bets'  =>  [
 			'10' => '0 HKD',
 			'5' => '0 HKD',
-			'6' => '0 HKD',
 			'11' => '0 HKD',
 			'2' => '0 HKD',
 			'7' => '0 HKD',
@@ -30,14 +30,14 @@ return [
 		*/
 		'favorite set'  =>  'Set 2',
 		'Set 1 Win Bets'  =>  [
+			'9' => '10 HKD',
 		],
-		'Total Bets set 1'  =>  '0 HKD',
+		'Total Bets set 1'  =>  '10 HKD',
 		'Set 2 Win Bets'  =>  [
 			'6' => '0 HKD',
 			'1' => '0 HKD',
 			'10' => '0 HKD',
 			'2' => '0 HKD',
-			'9' => '0 HKD',
 			'7' => '0 HKD',
 			'3' => '0 HKD',
 			'11' => '0 HKD',
@@ -76,14 +76,14 @@ return [
 		Race 4
 		*/
 		'Set 1 Win Bets'  =>  [
-			'8' => '40 HKD',
-			'6' => '40 HKD',
+			'8' => '30 HKD',
+			'6' => '30 HKD',
 			'3' => '20 HKD',
 			'12' => '10 HKD',
 			'9' => '10 HKD',
 			'4' => '10 HKD',
 		],
-		'Total Bets set 1'  =>  '130 HKD',
+		'Total Bets set 1'  =>  '110 HKD',
 		'Set 2 Win Bets'  =>  [
 			'5' => '10 HKD',
 			'1' => '10 HKD',
@@ -125,18 +125,18 @@ return [
 			'6' => '20 HKD',
 			'3' => '20 HKD',
 			'11' => '10 HKD',
+			'12' => '10 HKD',
 			'9' => '10 HKD',
 		],
-		'Total Bets set 1'  =>  '100 HKD',
+		'Total Bets set 1'  =>  '110 HKD',
 		'Set 2 Win Bets'  =>  [
-			'4' => '40 HKD',
+			'4' => '30 HKD',
 			'7' => '20 HKD',
 			'5' => '10 HKD',
-			'12' => '10 HKD',
 			'2' => '10 HKD',
 			'8' => '10 HKD',
 		],
-		'Total Bets set 2'  =>  '100 HKD'
+		'Total Bets set 2'  =>  '80 HKD'
 	],
 	'7' => [
 		/**
