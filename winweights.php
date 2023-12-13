@@ -70,7 +70,7 @@ for ($raceNumber = 1; $raceNumber <= $totalRaces; $raceNumber++) {
     if(in_array($favorite, $set1) && count($set1) > count($set2)){
         $racetext .= "\t\t'favorite set'  =>  'Set 1',\n";    
     }
-    elseif(count($set2) > count($set1)){
+    elseif(in_array($favorite, $set2) &&  count($set2) > count($set1)){
         $racetext .= "\t\t'favorite set'  =>  'Set 2',\n";  
     }
     $racetext .= "\t\t'Set 1 Win Bets'  =>  [\n";
